@@ -82,43 +82,17 @@
 | **Total de cada competencia** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** |
 
 --- 
-NO MIRAR 
 
-Proyecto 1º - Experto en componentes
-Proyecto 2º NOTA FINAL DEL CURSO A PARTIR DE AQUÍ, BONUS... - Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto. Simulación de red creada.
-
-*WordPress o desarrollo web:*
-Explicar brevemente que WordPress utiliza una base de datos.
-Entrar en phpMyAdmin.
-Ver tablas, registros y relaciones básicas.
-Hacer consultas SQL sencillas con SELECT, INSERT y UPDATE.
-Conectar, si da tiempo, una aplicación mínima a una base de datos.
-
-*Servicios compartidos en red*
-Tienes redes y copias mediante rsync, pero dejaría expresamente alguna práctica de:
-carpetas compartidas;
-permisos de usuarios;
-intercambio de archivos entre máquinas virtuales;
-acceso desde varios sistemas operativos.
-Podría encajar naturalmente en el bloque de máquinas virtuales: una máquina actúa como servidor y otras acceden a un recurso compartido.
-
-| Bloque | 1.º de Bachillerato | 2.º de Bachillerato |
+| Bloque | De 1.º de Bachillerato | A 2.º de Bachillerato |
 |---|---|---|
-| Programación | Python: variables, condicionales, bucles y funciones | Python: estructuras de datos, programación modular, pruebas y depuración |
-| Repositorios | GitHub y Markdown básico | Documentación, licencias y gestión de proyectos en GitHub |
-| Hardware | HWiNFO, Prime95 y CrystalDiskMark | Selección y evaluación de equipos según rendimiento, coste y consumo |
-| Sistemas operativos | Windows/Linux, comandos básicos y máquinas virtuales | Administración de Linux, usuarios, grupos, permisos y servicios |
-| Virtualización | VirtualBox: instalación, configuración e instantáneas | Redes virtuales y modelos cliente-servidor |
-| Redes | Cisco Packet Tracer: dispositivos, IP, topologías y comandos básicos | Packet Tracer/GNS3: diseño, configuración, diagnóstico y seguridad |
-| Servicios en red | Introducción a recursos de red | Carpetas compartidas, permisos, Samba/NFS y acceso entre sistemas |
-| Desarrollo web | HTML, CSS y GitHub Pages | Web avanzada e integración de servicios e IA |
-| CMS | WordPress con XAMPP: instalación, temas, páginas, menús y usuarios | WordPress con phpMyAdmin: tablas, registros, mantenimiento y seguridad |
-| Bases de datos | Introducción a la base de datos de WordPress | phpMyAdmin y SQL básico: SELECT, INSERT y UPDATE |
+| Programación | PSInt, lenguaje Java (variables, condicionales, bucles, vectores, matrices y programación modular) + Proyecto | repaso de 1º, estructuras de datos y pruebas _JUnit_ |
+| Repositorios | GitHub y Markdown básico | GitHub y Markdown básico |
+| Hardware | Dispositivos digitales y componentes, HWiNFO + Proyecto EXPERTO COMPONENTE | HWiNFO, Prime95 y CrystalDiskMark + Proyecto para Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto. Simulación de red creada. |
+| Sistemas operativos, Virtualización y Servicios en red | Máquinas virtuales Windows/Linux, comandos básicos e introducción a recursos compartidos en red | MV con modelos cliente-servidor, permisos, intercambio de archivos entre máquinas virtuales, Samba/NFS y acceso entre sistemas |
+| Redes | Dispositivos de red, canales de comunicación, IP, topologías y comandos básicos | Simulación con Packet Tracer: diseño, configuración, diagnóstico y seguridad |
+| Desarrollo web | HTML + CSS y GitHub Pages | Integración de servicios e IA con Teachable Machine |
+| CMS | WordPress con XAMPP: instalación, temas, páginas, menús y usuarios | WordPress con phpMyAdmin y SQL básico: SELECT, INSERT y UPDATE |
 | Inteligencia artificial | NotebookLM, Copilot, Prompt Coach y uso responsable de LLM | Agentes personalizados, Teachable Machine e IA aplicada a proyectos |
-| Copias de seguridad | Copias básicas e instantáneas de máquinas virtuales | rsync, RAID, Clonezilla y restauración de sistemas |
+| Copias de seguridad y almacenamiento | Copias básicas en la nube y _rsync_ | RAID, Clonezilla y restauración de sistemas |
 | Criptografía | Contraseñas, autenticación y privacidad | GPG, VeraCrypt, hashes, TLS, certificados y firmas digitales |
-| Ciberseguridad | Amenazas, malware, filtraciones y seguridad básica | Auditoría de WordPress, Hashcat, seguridad Wi-Fi y análisis del rastreo web |
-
-
-
-
+| Ciberseguridad | Amenazas, malware, filtraciones y seguridad básica | Auditoría de WordPress, ataques de fuerza bruta con Hashcat, seguridad Wi-Fi y análisis del rastreo web |
