@@ -13,7 +13,7 @@
 `Bienvenida` [Prueba destrezas TIC y autorregulación en RRSS y uso del móvil]() 
 - Pedir manuscrito para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
 - A visualizar:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WKdiy_caVtI?si=-5778Nlou3C254M-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtube.com)](https://www.youtube.com/watch?v=WKdiy_caVtI)
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Sesgos y errores en LLMs.
