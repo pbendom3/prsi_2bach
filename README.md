@@ -83,7 +83,9 @@
 
 --- 
 NO MIRAR 
-Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto.
+
+Proyecto 1º - Experto en componentes
+Proyecto 2º NOTA FINAL DEL CURSO A PARTIR DE AQUÍ, BONUS... - Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto. Simulación de red creada.
 
 *WordPress o desarrollo web:*
 Explicar brevemente que WordPress utiliza una base de datos.
