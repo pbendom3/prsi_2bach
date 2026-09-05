@@ -26,7 +26,8 @@
 
 [3. Sistemas informáticos y redes]() `2ºT`
   - Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.
-  - Monitorización de componentes hardware con _HWinfo_.
+  - Monitorización de componentes hardware con _HWinfo_. Uso de _Prime95_ para estresar la _CPU_.
+  - Prueba de rendimiento del disco duro con _CrystalDiskMark_.
   - Sistemas Operativos. Instalación de Máquinas Virtuales y comandos de consola básicos.
   - Dispositivos de red y canales de interconexión. Parámetros típicos y comandos de red básicos.
   - Configuración de red simulada con _Cisco Packet Tracer_/_GNS3_.
