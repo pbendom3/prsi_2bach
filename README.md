@@ -10,7 +10,7 @@
 
 `Noticiario` Recopilación sobre hechos interesantes de IA o Seguridad que ocurran durante el curso para comentar en clase.
 
-`Bienvenida` [Correo electrónico, autorregulación en RRSS y uso del móvil]() 
+`Bienvenida` [Buenas prácticas, autorregulación en RRSS y uso del móvil]() 
 - A visualizar [_🎥 YouTube_]: [Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtu.be/WKdiy_caVtI?si=Qd2DxoCnEBVlBGLS)
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
