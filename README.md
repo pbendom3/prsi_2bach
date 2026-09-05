@@ -43,13 +43,13 @@
   - Tipos de seguridad. Amenazas y ataques.
     - `virus.bat`.
     - Hackear sitios web creados en _Wordpress_.
-    - `IP Logger`: robar dirección IP pública tras hacer click en un enlace.
+    - `IP Logger`: robar dirección IP pública tras hacer _click_ en un enlace.
     - `';--have i been pwned?`: cómo saber si tus contraseñas se han filtrado en Internet.
   - Copias de seguridad y almacenamiento. 
     - Creación y administración de copias de seguridad en Linux con rsync.
-    - Discos virtuales y configuración RAID.
+    - Discos virtuales y configuración _RAID_.
   - Gestión de imágenes del sistema.
-    - Clonezilla (crear y restaurar ISO). 
+    - _Clonezilla_ (crear y restaurar ISO). 
   - Criptografía: VPN, firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online (HTTPS/SSL TLS vs HTTP).
     - `Asimétrica` Uso de _GPG_ para firmar y verificar mensajes.
     - `Simétrica` Cifrado de datos con _VeraCrypt_.
