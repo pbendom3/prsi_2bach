@@ -69,7 +69,7 @@
 
 ---
 
-| Tema o actividad | CE1 Programación | CE2 Sistemas | CE3 Redes | CE4 Servicios en red | CE5 Ciudadanía digital |
+| Temas y Proyectos | CE1 Programación | CE2 Sistemas | CE3 Redes | CE4 Servicios en red | CE5 Ciudadanía digital |
 |---|---:|---:|---:|---:|---:|
 | Bienvenida, Noticiario y uso responsable de la IA | 5 % | 0 % | 0 % | 0 % | 25 % |
 | 1. Introducción a la programación | 35 % | 0 % | 0 % | 0 % | 10 % |
