@@ -24,11 +24,14 @@
       - Qué datos no deben introducirse en una herramienta externa.
      
 [1. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
-   - Elección de licencia para el repositorio de _GitHub_. Diferencias básicas entre _copyright_, _Creative Commons_ y licencias de software libre.
+  
      
 [2. Estructuras estáticas y programación modular]() `1ºT`
 
 [:open_file_folder: *PROYECTO: problema libre OICV/OIE*]()
+   - Elección de licencia para el repositorio de _GitHub_. Diferencias básicas entre _copyright_, _Creative Commons_ y licencias de software libre.
+   - _Markdown_ para documentación.
+   - Pruebas.
 
 [3. Sistemas informáticos y redes]() `2ºT`
   - Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.
@@ -50,7 +53,7 @@
 [5. Seguridad informática]() `3ºT`
   - Tipos de seguridad. Amenazas y ataques.
     - `virus.bat`.
-    - Hackear sitios web creados en _Wordpress_.
+    - Hackear sitios web creados en _WordPress_.
     - `IP Logger`: robar dirección IP pública tras hacer _click_ en un enlace.
     - `';--have i been pwned?`: cómo saber si tus contraseñas se han filtrado en Internet.
   - Copias de seguridad y almacenamiento. 
