@@ -65,7 +65,7 @@
   - Seguridad en redes inalámbricas (_Wi-Fi_).
 
 ---
-
+NO MIRAR 
 Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto.
 
 *WordPress o desarrollo web:*
