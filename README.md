@@ -8,7 +8,7 @@
 
 ## :books: Planificación y secuenciación
 
-`Noticiario` - Noticias sobre hechos interesantes sobre IA o Seguridad que ocurran durante el curso para comentar en clase.
+`Noticiario` - Noticias sobre hechos interesantes de IA o Seguridad que ocurran durante el curso para comentar en clase.
 
 `Bienvenida` [Buenas prácticas y Autorregulación del uso del móvil]() 
 
