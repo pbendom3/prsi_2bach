@@ -39,7 +39,7 @@
   - Configuración de red simulada con _Cisco Packet Tracer_/_GNS3_.
     
 [4. Introducción al desarrollo web]() `2ºT`
-  - _HTML + CSS_. Alojamiento web en _GitHub_.
+  - _HTML + CSS_. Alojamiento web en _GitHub Pages_.
   - _WordPress (XAMPP)_.
   - Desarrollo web con IA. Herramienta _Teachable Machine_ para reconocimiento de imágenes.
     
