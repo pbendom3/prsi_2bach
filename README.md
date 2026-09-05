@@ -26,15 +26,14 @@
 
 [3. Sistemas informáticos y redes]() `2ºT`
   - Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.
-  - Monitorización de componentes hardware con HWinfo.
+  - Monitorización de componentes hardware con _HWinfo_.
   - Sistemas Operativos. Instalación de Máquinas Virtuales y comandos de consola básicos.
   - Dispositivos de red y canales de interconexión. Parámetros típicos y comandos de red básicos.
   - Configuración de red simulada con _Cisco Packet Tracer_/_GNS3_.
     
 [4. Introducción al desarrollo web](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP5/up5.md) `2ºT`
-  - HTML + CSS.
-  - Alojamiento web en _GitHub_.
-  - WordPress (XAMPP).
+  - _HTML + CSS_. Alojamiento web en _GitHub_.
+  - _WordPress (XAMPP)_.
   - Desarrollo web con IA.
     
 [:open_file_folder: *PROYECTO: Expertos en componentes*]()
@@ -43,17 +42,17 @@
 [5. Seguridad informática](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP5/up5.md) `3ºT`
   - Tipos de seguridad. Amenazas y ataques.
     - `virus.bat`.
-    - Hackear sitios web creados en Wordpress.
-    - [IP Logger]: robar dirección IP pública tras hacer click en un enlace.
-    - [';--have i been pwned?]: cómo saber si tus contraseñas se han filtrado en Internet.
+    - Hackear sitios web creados en _Wordpress_.
+    - `IP Logger`: robar dirección IP pública tras hacer click en un enlace.
+    - `';--have i been pwned?`: cómo saber si tus contraseñas se han filtrado en Internet.
   - Copias de seguridad y almacenamiento. 
     - Creación y administración de copias de seguridad en Linux con rsync.
     - Discos virtuales y configuración RAID.
   - Gestión de imágenes del sistema.
     - Clonezilla (crear y restaurar ISO). 
   - Criptografía: VPN, firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online (HTTPS/SSL TLS vs HTTP).
-    - [Asimétrica] Uso de GPG para firmar y verificar Mensajes.
-    - [Simétrica] Cifrado de datos con VeraCrypt.
-    - [Funciones hash] Crackeo de contraseñas con Hashcat.
-  - Seguridad en redes inalámbricas (Wi-Fi).
+    - `Asimétrica` Uso de _GPG_ para firmar y verificar mensajes.
+    - `Simétrica` Cifrado de datos con _VeraCrypt_.
+    - `Funciones hash` Crackeo de contraseñas con _Hashcat_.
+  - Seguridad en redes inalámbricas (_Wi-Fi_).
 
