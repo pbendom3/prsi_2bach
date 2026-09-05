@@ -82,7 +82,7 @@
 
 --- 
 
-| Bloque | De 1.º de Bachillerato | A 2.º de Bachillerato |
+| Bloque | De   1.º de Bachillerato | A   2.º de Bachillerato |
 |---|---|---|
 | Programación | PSInt, lenguaje Java (variables, condicionales, bucles, vectores, matrices y programación modular) + Proyecto | Repaso de 1º, estructuras de datos y pruebas _JUnit_ |
 | Repositorios | GitHub y Markdown básico | GitHub y Markdown básico |
