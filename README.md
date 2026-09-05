@@ -18,11 +18,13 @@
    - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
    - Creación de Agentes de IA personalizados como herramienta para el estudio.
    - Protocolo de uso de IA:
-      - Cuándo se puede utilizar y cómo debe declararse su uso (evidencias que debe conservar el alumnado).
+      - Cuándo se puede utilizar.
+      - Cómo debe declararse su uso (propiedad intelectual y atribución de contenido generado o transformado con IA). Evidencias que debe conservar el alumnado.
       - Cómo se comprueba que el estudiante comprende lo entregado.
       - Qué datos no deben introducirse en una herramienta externa.
      
 [1. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
+   - Elección de licencia para el repositorio de _GitHub_. Diferencias básicas entre _copyright_, _Creative Commons_ y licencias de software libre.
      
 [2. Estructuras estáticas y programación modular]() `1ºT`
 
@@ -36,15 +38,16 @@
   - Dispositivos de red y canales de interconexión. Parámetros típicos y comandos de red básicos.
   - Configuración de red simulada con _Cisco Packet Tracer_/_GNS3_.
     
-[4. Introducción al desarrollo web](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP5/up5.md) `2ºT`
+[4. Introducción al desarrollo web]() `2ºT`
   - _HTML + CSS_. Alojamiento web en _GitHub_.
   - _WordPress (XAMPP)_.
   - Desarrollo web con IA. Herramienta _Teachable Machine_ para reconocimiento de imágenes.
     
 [:open_file_folder: *PROYECTO: Expertos en componentes*]()
   - Crear sitio web con info de la exposición. Deben integrar funcionalidad TM para reconocer tipos del componente escogido.
+  - Consumo, durabilidad, reparabilidad e impacto ambiental del componente.
     
-[5. Seguridad informática](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP5/up5.md) `3ºT`
+[5. Seguridad informática]() `3ºT`
   - Tipos de seguridad. Amenazas y ataques.
     - `virus.bat`.
     - Hackear sitios web creados en _Wordpress_.
@@ -60,4 +63,26 @@
     - `Simétrica` Cifrado de datos con _VeraCrypt_.
     - `Funciones hash` Crackeo de contraseñas con _Hashcat_.
   - Seguridad en redes inalámbricas (_Wi-Fi_).
+
+---
+
+Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto.
+
+*WordPress o desarrollo web:*
+Explicar brevemente que WordPress utiliza una base de datos.
+Entrar en phpMyAdmin.
+Ver tablas, registros y relaciones básicas.
+Hacer consultas SQL sencillas con SELECT, INSERT y UPDATE.
+Conectar, si da tiempo, una aplicación mínima a una base de datos.
+
+*Servicios compartidos en red*
+Tienes redes y copias mediante rsync, pero dejaría expresamente alguna práctica de:
+carpetas compartidas;
+permisos de usuarios;
+intercambio de archivos entre máquinas virtuales;
+acceso desde varios sistemas operativos.
+Podría encajar naturalmente en el bloque de máquinas virtuales: una máquina actúa como servidor y otras acceden a un recurso compartido.
+
+
+
 
