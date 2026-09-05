@@ -34,10 +34,10 @@
 [4. Introducción al desarrollo web](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP5/up5.md) `2ºT`
   - _HTML + CSS_. Alojamiento web en _GitHub_.
   - _WordPress (XAMPP)_.
-  - Desarrollo web con IA.
+  - Desarrollo web con IA. Herramienta _Teachable Machine_ para reconocimiento de imágenes.
     
 [:open_file_folder: *PROYECTO: Expertos en componentes*]()
-  - Crear sitio web con info de la exposición.
+  - Crear sitio web con info de la exposición. Deben integrar funcionalidad TM para reconocer tipos del componente escogido.
     
 [5. Seguridad informática](https://github.com/pbendom3/prog-1cfgs-2526/blob/main/ups/UP5/up5.md) `3ºT`
   - Tipos de seguridad. Amenazas y ataques.
