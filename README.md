@@ -39,7 +39,7 @@
   - Prueba de rendimiento del disco duro con _CrystalDiskMark_.
   - Sistemas Operativos. Instalación de Máquinas Virtuales y comandos de consola básicos.
   - Dispositivos de red y canales de interconexión. Parámetros típicos y comandos de red básicos.
-  - Configuración de red simulada con _Cisco Packet Tracer_/_GNS3_.
+  - Configuración de red simulada con _Cisco Packet Tracer_.
     
 [4. Introducción al desarrollo web]() `2ºT`
   - _HTML + CSS_. Alojamiento web en _GitHub Pages_.
