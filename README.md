@@ -87,11 +87,11 @@
 | Programación | PSInt, lenguaje Java (variables, condicionales, bucles, vectores, matrices y programación modular) + Proyecto | repaso de 1º, estructuras de datos y pruebas _JUnit_ |
 | Repositorios | GitHub y Markdown básico | GitHub y Markdown básico |
 | Hardware | Dispositivos digitales y componentes, HWiNFO + Proyecto EXPERTO COMPONENTE | HWiNFO, Prime95 y CrystalDiskMark + Proyecto para Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto. Simulación de red creada. |
-| Sistemas operativos, Virtualización y Servicios en red | Máquinas virtuales Windows/Linux, comandos básicos e introducción a recursos compartidos en red | MV con modelos cliente-servidor, permisos, intercambio de archivos entre máquinas virtuales, Samba/NFS y acceso entre sistemas |
+| Sistemas operativos, Virtualización y Servicios en red | Máquinas virtuales Windows/Linux, comandos básicos | MV con modelos cliente-servidor, permisos, intercambio de archivos entre máquinas virtuales, Samba/NFS y acceso entre sistemas |
 | Redes | Dispositivos de red, canales de comunicación, IP, topologías y comandos básicos | Simulación con Packet Tracer: diseño, configuración, diagnóstico y seguridad |
 | Desarrollo web | HTML + CSS y GitHub Pages | Integración de servicios e IA con Teachable Machine |
 | CMS | WordPress con XAMPP: instalación, temas, páginas, menús y usuarios | WordPress con phpMyAdmin y SQL básico: SELECT, INSERT y UPDATE |
 | Inteligencia artificial | NotebookLM, Copilot, Prompt Coach y uso responsable de LLM | Agentes personalizados, Teachable Machine e IA aplicada a proyectos |
 | Copias de seguridad y almacenamiento | Copias básicas en la nube y _rsync_ | RAID, Clonezilla y restauración de sistemas |
 | Criptografía | Contraseñas, autenticación y privacidad | GPG, VeraCrypt, hashes, TLS, certificados y firmas digitales |
-| Ciberseguridad | Amenazas, malware, filtraciones y seguridad básica | Auditoría de WordPress, ataques de fuerza bruta con Hashcat, seguridad Wi-Fi y análisis del rastreo web |
+| Ciberseguridad | Amenazas, malware, filtraciones y seguridad básica + Proyecto Ciberseguridad| Auditoría de WordPress, ataques de fuerza bruta con Hashcat, seguridad Wi-Fi y análisis del rastreo web |
