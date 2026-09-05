@@ -68,6 +68,20 @@
   - Seguridad en redes inalámbricas (_Wi-Fi_).
 
 ---
+
+| Tema o actividad | CE1 Programación | CE2 Sistemas | CE3 Redes | CE4 Servicios en red | CE5 Ciudadanía digital |
+|---|---:|---:|---:|---:|---:|
+| Bienvenida, Noticiario y uso responsable de la IA | 5 % | 0 % | 0 % | 0 % | 25 % |
+| 1. Introducción a la programación | 35 % | 0 % | 0 % | 0 % | 10 % |
+| 2. Estructuras estáticas y programación modular | 45 % | 0 % | 0 % | 0 % | 10 % |
+| Proyecto OICV/OIE | 10 % | 0 % | 0 % | 0 % | 10 % |
+| 3. Sistemas informáticos y redes | 0 % | 55 % | 65 % | 0 % | 15 % |
+| 4. Introducción al desarrollo web | 5 % | 0 % | 0 % | 55 % | 5 % |
+| Proyecto «Expertos en componentes» | 0 % | 15 % | 0 % | 15 % | 10 % |
+| 5. Seguridad informática | 0 % | 30 % | 35 % | 30 % | 15 % |
+| **Total de cada competencia** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** |
+
+--- 
 NO MIRAR 
 Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto.
 
