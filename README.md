@@ -15,7 +15,7 @@
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Sesgos y errores en LLMs.
    - Uso de _NotebookLLM_.
-   - Agente _Prompt coach_ de M365.
+   - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
    - Creación de Agentes de IA personalizados como herramienta para el estudio.
      
 [1. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
