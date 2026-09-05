@@ -17,6 +17,10 @@
    - Uso de _NotebookLM_.
    - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
    - Creación de Agentes de IA personalizados como herramienta para el estudio.
+   - Protocolo de uso de IA:
+      - Cuándo se puede utilizar y cómo debe declararse su uso (evidencias que debe conservar el alumnado).
+      - Cómo se comprueba que el estudiante comprende lo entregado.
+      - Qué datos no deben introducirse en una herramienta externa.
      
 [1. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
      
