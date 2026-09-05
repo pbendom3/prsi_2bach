@@ -85,7 +85,7 @@
 | Bloque | De   1.º de Bachillerato (fundamentos, reconocimiento, instalación, utilización y configuración básica) | A   2.º de Bachillerato (integración, administración, diagnóstico, seguridad y comprensión interna) |
 |---|---|---|
 | Programación | PSInt, lenguaje Java (variables, condicionales, bucles, vectores, matrices y programación modular) + Proyecto | Repaso de 1º, estructuras de datos y pruebas _JUnit_ |
-| Repositorios | GitHub y Markdown básico | GitHub ramas y trabajo colaborativo (revisión por pares _peer to peer_|
+| Repositorios | GitHub y Markdown básico | GitHub ramas y trabajo colaborativo (revisión por pares _peer to peer_)|
 | Hardware | Dispositivos digitales y componentes, HWiNFO + Proyecto EXPERTO COMPONENTE | HWiNFO, Prime95 y CrystalDiskMark + Proyecto para Diseñar la infraestructura informática de una pequeña organización, justificando los equipos, el sistema operativo, el direccionamiento, la topología, las medidas básicas de seguridad y el presupuesto. Simulación de red creada. |
 | Sistemas operativos, Virtualización y Servicios en red | Máquinas virtuales Windows/Linux, comandos básicos | MV con modelos cliente-servidor, permisos, intercambio de archivos entre máquinas virtuales, Samba/NFS y acceso entre sistemas |
 | Redes | Dispositivos de red, canales de comunicación, IP, topologías y comandos básicos | Simulación con Packet Tracer: diseño, configuración, diagnóstico y seguridad |
