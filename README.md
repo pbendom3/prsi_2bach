@@ -61,7 +61,7 @@
     - Discos virtuales y configuración _RAID_.
   - Gestión de imágenes del sistema.
     - _Clonezilla_ (crear y restaurar ISO). 
-  - Criptografía: VPN, firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online (HTTPS/SSL TLS vs HTTP).
+  - Criptografía: VPN, firmas y certificados digitales, criptomonedas y estrategias para la detección de fraudes online (HTTP vs HTTPS/SSL TLS).
     - `Asimétrica` Uso de _GPG_ para firmar y verificar mensajes.
     - `Simétrica` Cifrado de datos con _VeraCrypt_.
     - `Funciones hash` Crackeo de contraseñas con _Hashcat_.
