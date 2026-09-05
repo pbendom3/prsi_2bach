@@ -93,5 +93,5 @@
 | CMS | WordPress con XAMPP: instalación, temas, páginas, menús y usuarios | WordPress con phpMyAdmin y SQL básico: SELECT, INSERT y UPDATE |
 | Inteligencia artificial | NotebookLM, Copilot, Prompt Coach y uso responsable de LLM | Agentes personalizados, Teachable Machine e IA aplicada a proyectos |
 | Copias de seguridad y almacenamiento | Copias básicas en la nube y _rsync_ | RAID, Clonezilla y restauración de sistemas |
-| Criptografía | Contraseñas, autenticación y privacidad | GPG, VeraCrypt, hashes, TLS, certificados y firmas digitales |
-| Ciberseguridad | Amenazas, malware, filtraciones y seguridad básica + Proyecto Ciberseguridad| Auditoría de WordPress, ataques de fuerza bruta con Hashcat, seguridad Wi-Fi y análisis del rastreo web |
+| Criptografía | Asimétrica/simétrica, VPN, criptomonedas | Herramientas GPG, VeraCrypt, hashes, TLS, certificados y firmas digitales |
+| Ciberseguridad | Amenazas, malware, fraudes online y seguridad básica (contraseñas, autenticación y privacidad) + Proyecto Ciberseguridad | Auditoría de WordPress, ataques de fuerza bruta con Hashcat, seguridad Wi-Fi y análisis del rastreo web |
