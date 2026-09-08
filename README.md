@@ -14,6 +14,7 @@
 - A visualizar [_🎥 YouTube_]: [Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtu.be/WKdiy_caVtI?si=Qd2DxoCnEBVlBGLS)
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
+[](ia.PNG)
    - Pedir manuscrito de cómo usan la IA para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
    - Intro a la IA. [Tokenizador](https://platform.openai.com/tokenizer).
    - Sesgos y errores en LLMs.
