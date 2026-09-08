@@ -32,6 +32,7 @@
 - [Cómo usar la IA en _Programación_ (sin copiar)](COMO-USAR-LA-IA-PARA-APRENDER-SIN-COPIAR.pdf)
   
 [2. Estructuras estáticas y programación modular]() `1ºT`
+
 ---
 [:open_file_folder: *PROYECTO: problema libre OICV/OIE*]()
    - Elección de licencia para el repositorio de _GitHub_. Diferencias básicas entre _copyright_, _Creative Commons_ y licencias de software libre.
