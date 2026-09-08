@@ -15,6 +15,7 @@
 
 `BONUS` [Uso responsable de la IA como estudiantes]() 
    - Pedir manuscrito de cómo usan la IA para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
+   - Intro a la IA. [Tokenizador](https://platform.openai.com/tokenizer).
    - Sesgos y errores en LLMs.
    - Uso académico de _NotebookLM_.
    - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
