@@ -26,6 +26,7 @@
       - Cómo se comprueba que el estudiante comprende lo entregado.
      
 [1. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
+- [Cómo usar la IA en Programación (sin copiar)](COMO-USAR-LA-IA-PARA-APRENDER-SIN-COPIAR.pdf)
   
 [2. Estructuras estáticas y programación modular]() `1ºT`
 
