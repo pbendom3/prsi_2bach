@@ -48,7 +48,7 @@
     
 [:open_file_folder: *PROYECTO: Expertos en componentes*]()
   - Crear sitio web con info de la exposición. Deben integrar funcionalidad TM para reconocer tipos del componente escogido.
-  - Consumo, durabilidad, reparabilidad e impacto ambiental del componente.
+  - Analizar consumo, durabilidad, reparabilidad e impacto ambiental del componente.
     
 [5. Seguridad informática]() `3ºT`
   - Tipos de seguridad. Amenazas y ataques.
