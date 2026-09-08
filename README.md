@@ -32,12 +32,12 @@
 - [Cómo usar la IA en _Programación_ (sin copiar)](COMO-USAR-LA-IA-PARA-APRENDER-SIN-COPIAR.pdf)
   
 [2. Estructuras estáticas y programación modular]() `1ºT`
-
+---
 [:open_file_folder: *PROYECTO: problema libre OICV/OIE*]()
    - Elección de licencia para el repositorio de _GitHub_. Diferencias básicas entre _copyright_, _Creative Commons_ y licencias de software libre.
    - _Markdown_ para documentación.
    - Pruebas.
-
+---
 [3. Sistemas informáticos y redes]() `2ºT`
   - Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.
   - Monitorización de componentes hardware con _HWinfo_. Uso de _Prime95_ para estresar la _CPU_.
@@ -50,11 +50,11 @@
   - _HTML + CSS_. Alojamiento web en _GitHub Pages_.
   - _WordPress (XAMPP)_.
   - Desarrollo web con IA. Herramienta _Teachable Machine_ para reconocimiento de imágenes.
-    
+---    
 [:open_file_folder: *PROYECTO: Expertos en componentes*]()
   - Crear sitio web con info de la exposición. Deben integrar funcionalidad TM para reconocer tipos del componente escogido.
   - Analizar consumo, durabilidad, reparabilidad e impacto ambiental del componente.
-    
+---    
 [5. Seguridad informática]() `3ºT`
   - Tipos de seguridad. Amenazas y ataques.
     - `virus.bat`.
