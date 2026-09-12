@@ -61,7 +61,7 @@ Protocolo de uso de IA:
 - Cómo debe declararse su uso (propiedad intelectual y atribución de contenido generado o transformado con IA). Evidencias que debe conservar el alumnado.
 - Cómo se comprueba que el estudiante comprende lo entregado.
 
-*** Críticos Digitales vs Vagos digitales
+*Críticos Digitales vs Vagos digitales*
 
 
 ** 3. Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista
