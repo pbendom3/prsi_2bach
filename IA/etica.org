@@ -63,18 +63,6 @@ Protocolo de uso de IA:
 
 *** Críticos Digitales vs Vagos digitales
 
-En esta [[https://www.linkedin.com/pulse/cr%C3%ADticos-digitales-versus-vagos-d%C3%B3nde-te-posicionas-t%C3%BA-%C3%A0ngels-soriano-bo0tf/][publicación de Àngels Soriano (Coordinadora del Experto Universitario en Inteligencia Artificial en el aula en UNIR)]], la autora da por hecho que el cambio del proceso de enseñanza-aprendizaje requiere la integración de la Inteligencia artificial (ya no en el aula), sino en nuestra vida diaria. Además, añade:
-
-~Esta respuesta a la integración no debe de suponer un nuevo fracaso, (aunque sin los fracasos, realmente, no hay avances), sino una adaptación con múltiples variantes a tener en cuenta: contexto social, integración de la tecnología educativa, formación del profesorado, formación de las familias, expectativas de las familias, de la sociedad, reglas de uso, por citar algunos aspectos.~
-
-*¿Cómo podemos enseñar, entrenar a nuestros adolescentes en la ética de la IA?*
-
-~Centremos la mirada primero en la ética: cuando valores éticos o ciudadanía son materias optativas en el mejor de los casos dentro de los currículos oficiales; y en un segundo lugar, en la ética de la IA.~
-
-[+]
-
-Ve al artículo!
-
 
 ** 3. Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista
 
