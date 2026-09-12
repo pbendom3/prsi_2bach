@@ -63,7 +63,7 @@
 
 ---
 
-** :pencil: Evaluación de competencias específicas
+## :pencil: Evaluación de competencias específicas
 
 | Temas y Proyectos | CE1 Programación | CE2 Sistemas | CE3 Redes | CE4 Servicios en red | CE5 Ciudadanía digital |
 |---|---:|---:|---:|---:|---:|
