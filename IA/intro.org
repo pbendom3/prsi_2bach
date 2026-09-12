@@ -7,6 +7,7 @@
     2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#2-entendiendo-los-modelos-de-aprendizaje-de-textos-llm-apps-con-learningml][Entendiendo los modelos de aprendizaje de textos (LLM Apps) con LearningML.]]
     3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#3-chatgpt-lo-bueno-y-lo-malo][ChatGPT... lo bueno y lo malo.]]
     4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#4-otros-modelos-de-aprendizaje][Otros modelos de aprendizaje.]]
+    5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#4-otros-modelos-de-aprendizaje][El coste de utilizar la IA: tokens]]
 
    
 ** Referencias y links
@@ -149,3 +150,15 @@ Prueba a preguntar esto a ChatGPT:
     - Entrenar IA con posturas.
 
 [[./tm.PNG]]
+
+** 5. El coste de utilizar la IA: tokens.
+
+Los tokens son las unidades que los modelos de OpenAI (ChatGPT) usan para procesar texto. Un token puede representar un carácter, una parte de una palabra, una palabra completa o un signo de puntuación. Los espacios también afectan la forma en que el texto se divide en tokens. El conteo de tokens no es lo mismo que el conteo de palabras. El mismo texto puede producir distintos conteos de tokens según el modelo, su codificación y el idioma.
+
+*Comprender cómo el texto se convierte en tokens*
+
+Cuando envías texto a un modelo:
+
+1. El texto se divide en tokens.
+2. El modelo procesa esos tokens.
+3. El modelo genera tokens de salida. Estos pueden incluir el texto que recibes y, en los modelos de razonamiento, tokens de razonamiento internos que no se muestran como texto de la respuesta. 1 token equivale aproximadamente a 4 caracteres.
