@@ -16,7 +16,7 @@
 
 [1. Hablemos de... Inteligencia Artificial](./IA/ia.md) `1ºT`
      
-[2. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
+[2. Introducción a la Programación. Estructuras condicionales e iterativas](./programacion/ud2/ud2.md) `1ºT`
 
 [3. Estructuras estáticas y programación modular]() `1º-2ºT`
 
