@@ -1,5 +1,5 @@
 * Ética y sesgos en el uso de la IA.
-[[./imagenes/ia_etica.png]]
+[[./ia_etica.png]]
 
 ** Índice
     1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Implicaciones éticas y sociales de los sistemas de IA.]]
@@ -48,12 +48,18 @@ Por último, debemos garantizar que los datos se recopilen, procesen y utilicen 
 
 🌟 Y por último, un [[https://www.linkedin.com/posts/ramon-lopez-roldan-724b2686_ia-dalladbe-ethics-activity-7279767543030927361-zdjJ/?utm_source=share&utm_medium=member_ios][post de Ramon Lopez Roldan]] donde se sorprende de ver el protagonismo que le ha dado DALL-E a la palabra #ethics en el 2024, pidiéndole que le generara una imagen con el resumen de 2024 y la importancia que la IA ha tenido en él.
 
-[[./imagenes/ethics2.jpg]]
+[[./ethics2.jpg]]
 
 
 ** 2. Ética en el aula
 
-¿Si detectáis que un trabajo es copiado por parte de algún estudiante cómo lo evaluáis? ¿Lo habéis contemplado en el apartado de Evaluación de vuestra Programación Didáctica?
+¿Si se detecta que un trabajo es copiado por parte de algún estudiante cómo os evalúan? ¿Lo habéis hablado en cuanto a vuestra Evaluación con los profes?
+
+Protocolo de uso de IA:
+
+- Cuándo se puede utilizar y qué datos no deben introducirse en una herramienta externa.
+- Cómo debe declararse su uso (propiedad intelectual y atribución de contenido generado o transformado con IA). Evidencias que debe conservar el alumnado.
+- Cómo se comprueba que el estudiante comprende lo entregado.
 
 *** Críticos Digitales vs Vagos digitales
 
@@ -79,11 +85,7 @@ Ve al artículo!
 Sora está disponible en la mayor parte del mundo, excepto en la mayoría de países de Europa y el Reino Unido. En España todavía no tenemos acceso, pero como alternativa podemos probar:
 
 - Pika
-- Runway -- https://runwayml.com/ 
-
-[[./gif/erasmus.mp4][./gif/erasmus.jpeg]] 
-
-[[./gif/erasmus.mp4]]
+- Runway
 
 
 *** Los riesgos de Sora
