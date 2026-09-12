@@ -27,11 +27,11 @@
 
     1 -- Las máquinas adquieren la información mediante sensores. Para entenderlo mejor, ponemos un vídeo de [[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][cómo lee la información el coche Tesla]].
 
-[[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][file:./imagenes/tesla.PNG]]
+[[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][file:./tesla.PNG]]
 
     2 -- La máquina utiliza modelos preestablecidos que utiliza “para razonar”. En este caso, usaremos la plataforma [[https://es.akinator.com/][akinator]] para entender el concepto. 
 
-[[https://es.akinator.com/][file:./imagenes/akinator.PNG]]
+[[https://es.akinator.com/][file:./akinator.PNG]]
 
     3 -- La máquina aprende a partir de datos: vamos a trastear con la aplicación [[https://quickdraw.withgoogle.com/][Quick Draw]] de Google, la cual nos permite entender los motivos por los que la máquina sabe lo que dibujamos. 
 
