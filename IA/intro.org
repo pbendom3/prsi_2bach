@@ -151,14 +151,26 @@ Prueba a preguntar esto a ChatGPT:
 
 [[./tm.PNG]]
 
-** 5. El coste de utilizar la IA: tokens.
+** 5. El coste de utilizar la IA: tokens
 
-Los tokens son las unidades que los modelos de OpenAI (ChatGPT) usan para procesar texto. Un token puede representar un carácter, una parte de una palabra, una palabra completa o un signo de puntuación. Los espacios también afectan la forma en que el texto se divide en tokens. El conteo de tokens no es lo mismo que el conteo de palabras. El mismo texto puede producir distintos conteos de tokens según el modelo, su codificación y el idioma.
+Los tokens son las unidades que los modelos de OpenAI (ChatGPT) usan para procesar texto. Un token puede representar un carácter, una parte de una palabra, una palabra completa o un signo de puntuación. Los espacios también afectan la forma en que el texto se divide en tokens. 
+
+El [[https://platform.openai.com/tokenizer][tokenizador]] !!!!
+
+[[./tokenizador.PNG]]
+
+https://platform.openai.com/tokenizer
+
+Como ves, el conteo de tokens no es lo mismo que el conteo de palabras. Además, el mismo texto puede producir distintos conteos de tokens según el modelo, su codificación y el idioma.
 
 *Comprender cómo el texto se convierte en tokens*
 
 Cuando envías texto a un modelo:
 
-1. El texto se divide en tokens.
-2. El modelo procesa esos tokens.
-3. El modelo genera tokens de salida. Estos pueden incluir el texto que recibes y, en los modelos de razonamiento, tokens de razonamiento internos que no se muestran como texto de la respuesta. 1 token equivale aproximadamente a 4 caracteres.
+1. El texto se divide en tokens: el algoritmo analiza las palabras y las fragmenta usando un vocabulario predefinido. 1 token equivale aproximadamente a 4 caracteres. 
+2. El modelo procesa esos tokens. Traducción numérica: cada token recibe un código numérico único que la red neuronal del modelo comprende. Además, hay variación por idiomas: En español u otros idiomas, las palabras suelen dividirse en más tokens porque el vocabulario del modelo está optimizado principalmente para el inglés.
+3. El modelo genera tokens de salida. Estos pueden incluir el texto que recibes y, en los modelos de razonamiento, tokens de razonamiento internos que no se muestran como texto de la respuesta. 
+
+El precio de usar la API de OpenAI se cobra por cada token procesado, tanto de entrada (lo que escribes) como de salida (lo que responde la IA). Además, los modelos tienen un límite máximo de tokens que pueden aceptar y recordar a la vez (ventana de contexto). Por eso es importante que utilicemos antes el tokenizador y eliminemos la información que estemos aportando al modelo que no sea necesaria. Por ejemplo, saludar al chat o despedirnos de él.
+
+
