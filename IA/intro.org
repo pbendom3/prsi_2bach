@@ -1,7 +1,6 @@
-* Introducción a la IA.
-[[./iaedu.jpg]]
+* :robot: Introducción a la IA 
 
-<img src="./iaedu.jpg" width="700" height="">
+[[./iaedu.jpg]]
 
 ** Índice
     1. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/intro.org#1-introducci%C3%B3n-a-la-inteligencia-artificial][Introducción a la Inteligencia Artificial.]]  
