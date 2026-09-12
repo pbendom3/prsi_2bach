@@ -1,5 +1,5 @@
 * Introducción a la IA.
-[[./IA/iaedu.jpg]]
+[[./iaedu.jpg]]
 
 ** Índice
     1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#1-introducci%C3%B3n-a-la-inteligencia-artificial][Introducción a la Inteligencia Artificial.]]  
@@ -23,7 +23,7 @@
 
 *** Las 5 grandes ideas sobre la IA
 
-[[./IA/ia.png]]
+[[./ia.png]]
 
     1 -- Las máquinas adquieren la información mediante sensores. Para entenderlo mejor, ponemos un vídeo de [[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][cómo lee la información el coche Tesla]].
 
@@ -52,7 +52,7 @@
 *** Para empezar... los LLM ("Large Language Models" o grandes modelos de lenguaje)
 Un LLM es un programa informático al que se le han dado suficientes ejemplos para que sea capaz de reconocer e interpretar el lenguaje humano u otros tipos de datos complejos. Los LLM se entrenan con datos recopilados de Internet (miles o millones de gigabytes de texto).
 
-[[./IA/llm-apps.jpg]]
+[[./llm-apps.jpg]]
 
 Los LLMs son la tecnología detrás de chatbots como ChatGPT o Bard.
 
@@ -60,7 +60,7 @@ Los LLMs son la tecnología detrás de chatbots como ChatGPT o Bard.
 
 Vamos a entrenar nuestro primer modelo de aprendizaje usando la herramienta [[https://web.learningml.org/][LearningML]]. 
 
-[[./IA/learningml.PNG]]
+[[./learningml.PNG]]
 
 https://basic.learningml.org/editor/ 
 
@@ -68,25 +68,25 @@ Se trata de una interfaz web que recopila textos o imágenes sobre algo que quer
 
 *Paso 1.* Para empezar el entrenamiento, crearemos un modelo para reconocer textos.
 
-[[./IA/1.png]]
+[[./1.png]]
 
 *Paso 2.* Crearemos tantas clases como tipos de elementos, objetos o cosas sean características para un tema. Por ejemplo, si pienso en sentimientos, pueden ser *POSITIVOS* o *NEGATIVOS*. 
 
-[[./IA/llm2.png]]
+[[./llm2.png]]
 
-[[./IA/3.png]]
+[[./3.png]]
 
 *Paso 3.* Ahora, debemos crear una lista de aspectos positivos y negativos dentro de cada clase. Por ejemplo,
 
-[[./IA/4.png]]
+[[./4.png]]
 
 *Paso 4.* A continuación, vamos a hacer click en el botón *Aprender a reconocer textos*,
 
-[[./IA/5.png]]
+[[./5.png]]
 
 *Paso 5.* En cuanto aparezca el mensaje de aviso porque ya "ha aprendido", probaremos el reconocimiento de textos escribiendo frases o palabras parecidas para comprobar que se reconocen los sentimientos positivos o negativos correctamente.
 
-[[./IA/6.png]]
+[[./6.png]]
 
 La aplicación nos devolverá el porcentaje de aspectos positivos y negativos que tiene la frase, y en función del valor, decidirá si se trata de una frase que se encuentra dentro de la clase de aspectos positivos o dentro de la clase de aspectos negativos. En el caso de la frase que hemos escrito, la clasifica como negativa.
 
@@ -107,7 +107,7 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
 
 *** ¿Has probado su asistente de voz en la nueva versión? Lo de pedir hora en la peluquería se queda corto...
 
-[[./IA/chat000.PNG]]
+[[./chat000.PNG]]
 
 ** 4. Otros modelos de aprendizaje
 
@@ -115,11 +115,11 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
      - Entrenar IA con imágenes.
      - Entrenar IA con números.
 
-[[./imagenes/lml.PNG]]
+[[./lml.PNG]]
 
 2 -- *Google Teachable Machine* (https://teachablemachine.withgoogle.com/train) para:
     - Entrenar IA con imágenes.
     - Entrenar IA con audio.
     - Entrenar IA con posturas.
 
-[[./IA/tm.PNG]]
+[[./tm.PNG]]
