@@ -54,7 +54,7 @@ Un LLM es un programa informático al que se le han dado suficientes ejemplos pa
 
 [[./llm-apps.jpg]]
 
-Los LLMs son la tecnología detrás de chatbots como ChatGPT o Bard.
+Los LLMs son la tecnología detrás de chatbots como ChatGPT, Gemini, etc.
 
 *** La práctica...
 
