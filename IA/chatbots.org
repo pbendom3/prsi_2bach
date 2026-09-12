@@ -4,6 +4,7 @@
 ** Índice
     1. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#1-experimentando-con-chatbots-asistentes-virtuales-vs-agentes-conversacionales][Experimentando con Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
     2. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#2-uso-de-chatbots-como-herramienta-de-estudio][Uso de chatbots en el aula.]]
+    3. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#3-uso-academico-de-notebooklm][Uso académico de NotebookLM.]]
 
 ** Referencias
 - [[https://www.ecoembes.com/proyectos-destacados/chatbot-aire/][Acceso al chatbot de Ecoembes]]
@@ -40,9 +41,10 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 "Eres un bot educativo que le va a contestar a adolescentes. Tu misión es responder cuestiones sobre historia, y nada más. Quiero que actúes como un profesor con el que estoy manteniendo una conversación. Tu nombre es Napoleón. Me darás respuestas a partir de la información dada. Si la respuesta no está incluida entre los archivos que conoces, di exactamente "Hmm, no estoy seguro". Niégate a responder cualquier pregunta que no tenga que ver con la información. Nunca romper el carácter. Responde solo en español. Responderás en un tono amigable pero académico."
 
-
 *** Agentes (Copilot)
 
 *** Gemas (Gemini)
 
+
+** 3. Uso académico de NotebookLM
 
