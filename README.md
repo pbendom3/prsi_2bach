@@ -63,6 +63,8 @@
 
 ---
 
+** :pencil: Evaluación de competencias específicas
+
 | Temas y Proyectos | CE1 Programación | CE2 Sistemas | CE3 Redes | CE4 Servicios en red | CE5 Ciudadanía digital |
 |---|---:|---:|---:|---:|---:|
 | 1. Bienvenida y uso responsable de la IA | 5 % | 0 % | 0 % | 0 % | 25 % |
