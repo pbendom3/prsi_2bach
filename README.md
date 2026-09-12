@@ -15,11 +15,6 @@
 - A visualizar [_🎥 YouTube_]: [Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtu.be/WKdiy_caVtI?si=Qd2DxoCnEBVlBGLS)
 
 [1. Hablemos de... Inteligencia Artificial](./IA/ia.md) `1ºT`
-   - [Intro a la IA: LLMs, problemas y coste de usarla.](./IA/intro.org)
-   - [Ética y sesgos en el uso de la IA.](./IA/etica.org)
-   - [Chatbots educativos.](chatbots.org)
-
-![wq](ia.png)
      
 [2. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
 - [Cómo usar la IA en _Programación_ (sin copiar)](COMO-USAR-LA-IA-PARA-APRENDER-SIN-COPIAR.pdf)
