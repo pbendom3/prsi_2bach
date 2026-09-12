@@ -4,7 +4,7 @@
 ** Índice
     1. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#1-experimentando-con-chatbots-asistentes-virtuales-vs-agentes-conversacionales][Experimentando con Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
     2. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#2-uso-de-chatbots-como-herramienta-de-estudio][Uso de chatbots en el aula.]]
-    3. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#3-uso-academico-de-notebooklm][Uso académico de NotebookLM.]]
+    3. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#3-uso-acad%C3%A9mico-de-notebooklm][Uso académico de NotebookLM.]]
 
 ** Referencias
 - [[https://www.ecoembes.com/proyectos-destacados/chatbot-aire/][Acceso al chatbot de Ecoembes]]
