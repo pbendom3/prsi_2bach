@@ -25,7 +25,7 @@
 
 *** Las 5 grandes ideas sobre la IA
 
-[[./ia.png]]
+[[./ia2.png]]
 
     1 -- Las máquinas adquieren la información mediante sensores. Para entenderlo mejor, ponemos un vídeo de [[https://digitalassets.tesla.com/tesla-contents/video/upload/f_auto,q_auto/network.mp4][cómo lee la información el coche Tesla]].
 
