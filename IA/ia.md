@@ -1,6 +1,6 @@
 # :blue_book: 1. Hablemos de... Inteligencia Artificial
    
-![wq](ia.png)
+![](./ia.png)
 
 ---
 
