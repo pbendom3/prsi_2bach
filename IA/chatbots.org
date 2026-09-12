@@ -8,9 +8,6 @@
    
 ** Referencias
 - [[https://www.ecoembes.com/proyectos-destacados/chatbot-aire/][Acceso al chatbot de Ecoembes]]
-- [[https://chat.openai.com/][Acceso a ChatGPT]] 
-- [[https://botframe.com/editor/new][Acceso a Botframe]]
-- [[https://openaccess.uoc.edu/bitstream/10609/85786/6/BRIEFING-PAPER-ES.pdf][Briefing paper: los chatbots en educación]]
 
 ** 1. Experimentando con Chatbots: Asistentes virtuales vs Agentes conversacionales
 En esta actividad basada en la indagación, interactuaremos con dos tipos de chatbots de IA: asistentes virtuales y agentes conversacionales. Además, analizaremos las fortalezas y debilidades de cada forma de chatbot.
