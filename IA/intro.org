@@ -4,10 +4,10 @@
 
 ** Índice
     1. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/intro.org#1-introducci%C3%B3n-a-la-inteligencia-artificial][Introducción a la Inteligencia Artificial.]]  
-    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#2-entendiendo-los-modelos-de-aprendizaje-de-textos-llm-apps-con-learningml][Entendiendo los modelos de aprendizaje de textos (LLM Apps) con LearningML.]]
-    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#3-chatgpt-lo-bueno-y-lo-malo][ChatGPT... lo bueno y lo malo.]]
-    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#4-otros-modelos-de-aprendizaje][Otros modelos de aprendizaje.]]
-    5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-1.org#4-otros-modelos-de-aprendizaje][El coste de utilizar la IA: tokens]]
+    2. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/intro.org#2-entendiendo-los-modelos-de-aprendizaje-de-textos-llm-apps-con-learningml][Entendiendo los modelos de aprendizaje de textos (LLM Apps) con LearningML.]]
+    3. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/intro.org#3-chatgpt-lo-bueno-y-lo-malo][ChatGPT... lo bueno y lo malo.]]
+    4. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/intro.org#4-otros-modelos-de-aprendizaje][Otros modelos de aprendizaje.]]
+    5. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/intro.org#5-el-coste-de-utilizar-la-ia-tokens][El coste de utilizar la IA: tokens]]
 
    
 ** Referencias y links
