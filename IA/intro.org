@@ -118,7 +118,7 @@ Tal y como cuenta Chema en el vídeo, Google cometió con Bard (ahora Gemini) un
 
 Está claro que estos LLMs no son una fuente fiable para recibir información, o para fiarte de en la toma de decisiones sin revisar lo que te dicen. Es una fuente de creatividad, de conversación, y puedes estar horas hablando con ellos, pero no te puedes fiar de lo que te den como fuente de información fiable. Te puede parecer que este ChatGPT es un tipo muy listo. Muy, muy, muy listo. Pero la verdad es que en el fondo es un modelo de inteligencia artificial hecho para charlar. Un charlatán, y si tiene que inventarse cosas, pues se las inventa que su objetivo no es ser listo, sino charlatán.
 
-Por supuesto que creo que los modelos LLM bien entrenados, con datos correctos, y con evolución tecnológica serán grandes maneras de acceder a “Facts” a “Datos factuales”, pero hoy en día son un Interfaz para charlar y conversar sin ninguna garantía de veracidad. Son un colega de cañas con el que pasar un buen rato e incluso estimularte a la hora de desbloquear un proceso creativo de redacción de texto (sea de lo que sea), pero ojo con dar por válida la información que da ChatGPT.
+Por supuesto que los modelos LLM bien entrenados, con datos correctos, y con evolución tecnológica serán grandes maneras de acceder a “Facts” a “Datos factuales”, pero hoy en día son un Interfaz para charlar y conversar sin ninguna garantía de veracidad. Son un colega de cañas con el que pasar un buen rato e incluso estimularte a la hora de desbloquear un proceso creativo de redacción de texto (sea de lo que sea), pero ojo con dar por válida la información que da ChatGPT.
 
 *** Tabús en la programación
 
@@ -150,6 +150,10 @@ Prueba a preguntar esto a ChatGPT:
     - Entrenar IA con posturas.
 
 [[./tm.PNG]]
+
+3 -- *ML4Kids* (https://machinelearningforkids.co.uk/#!/welcome)
+
+[[./ml4kids.PNG]]
 
 ** 5. El coste de utilizar la IA: tokens
 
