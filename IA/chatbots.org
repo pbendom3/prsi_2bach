@@ -1,11 +1,10 @@
-* Chatbots Educativos.
+* Chatbots Educativos
 [[./chatbots_edu.png]]
 
 ** Índice
-    1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#1-experimentando-con-chatbots-asistentes-virtuales-vs-agentes-conversacionales][Experimentando con Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
-    2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#2-uso-de-chatbots-en-el-aula][Uso de chatbots en el aula.]]
-    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-5.org#3-actividad-de-clase-dise%C3%B1o-de-un-chatbot-con-ia][Actividad de clase. Diseño de un chatbot con IA.]] 
-   
+    1. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#1-experimentando-con-chatbots-asistentes-virtuales-vs-agentes-conversacionales][Experimentando con Chatbots: Asistentes virtuales vs Agentes conversacionales.]]
+    2. [[https://github.com/pbendom3/prsi_2bach/blob/main/IA/chatbots.org#2-uso-de-chatbots-como-herramienta-de-estudio][Uso de chatbots en el aula.]]
+
 ** Referencias
 - [[https://www.ecoembes.com/proyectos-destacados/chatbot-aire/][Acceso al chatbot de Ecoembes]]
 
