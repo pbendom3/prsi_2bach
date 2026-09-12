@@ -11,27 +11,20 @@
 `Noticiario` Recopilación sobre hechos interesantes de IA o Seguridad que ocurran durante el curso para comentar en clase.
 
 `Bienvenida` [Buenas prácticas, autorregulación en RRSS y uso del móvil]() 
+- Pedir manuscrito de cómo usan la IA para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).    
 - A visualizar [_🎥 YouTube_]: [Autorregulación y redes sociales - Juan García | #DíaDeInternetSegura](https://youtu.be/WKdiy_caVtI?si=Qd2DxoCnEBVlBGLS)
 
-`BONUS` [Uso responsable de la IA como estudiantes]() 
-   - Pedir manuscrito de cómo usan la IA para tener con lo que comparar cuando hagan una entrega y escriban mejor que Miguel Hernández (mal uso de IA).
-     
-![wq](ia.png)
+[1. Hablemos de... Inteligencia Artificial]() 
+   - [Intro a la IA: LLMs, problemas y coste de usarla.](./IA/intro.org)
+   - [Ética y sesgos en el uso de la IA.](./IA/etica.org)
+   - [Chatbots educativos.](chatbots.org)
 
-   - Intro a la IA. [Tokenizador](https://platform.openai.com/tokenizer).
-   - Sesgos y errores en LLMs.
-   - Uso académico de _NotebookLM_.
-   - Copilot: modo razonamiento profundo. Agente _Prompt coach_ de M365.
-   - Creación de Agentes de IA personalizados como herramienta para el estudio.
-   - Protocolo de uso de IA:
-      - Cuándo se puede utilizar y qué datos no deben introducirse en una herramienta externa.
-      - Cómo debe declararse su uso (propiedad intelectual y atribución de contenido generado o transformado con IA). Evidencias que debe conservar el alumnado.
-      - Cómo se comprueba que el estudiante comprende lo entregado.
+![wq](ia.png)
      
-[1. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
+[2. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
 - [Cómo usar la IA en _Programación_ (sin copiar)](COMO-USAR-LA-IA-PARA-APRENDER-SIN-COPIAR.pdf)
   
-[2. Estructuras estáticas y programación modular]() `1ºT`
+[3. Estructuras estáticas y programación modular]() `1ºT`
 
 ---
 [:open_file_folder: *PROYECTO: problema libre OICV/OIE*]()
@@ -39,7 +32,7 @@
    - _Markdown_ para documentación.
    - Pruebas.
 ---
-[3. Sistemas informáticos y redes]() `2ºT`
+[4. Sistemas informáticos y redes]() `2ºT`
   - Características generales de los dispositivos digitales. Componentes básicos de un sistema informático.
   - Monitorización de componentes hardware con _HWinfo_. Uso de _Prime95_ para estresar la _CPU_.
   - Prueba de rendimiento del disco duro con _CrystalDiskMark_.
@@ -47,7 +40,7 @@
   - Dispositivos de red y canales de interconexión. Parámetros típicos y comandos de red básicos.
   - Configuración de red simulada con _Cisco Packet Tracer_.
     
-[4. Introducción al desarrollo web]() `2ºT`
+[5. Introducción al desarrollo web]() `2ºT`
   - _HTML + CSS_. Alojamiento web en _GitHub Pages_.
   - _WordPress (XAMPP)_.
   - Desarrollo web con IA. Herramienta _Teachable Machine_ para reconocimiento de imágenes.
@@ -56,7 +49,7 @@
   - Crear sitio web con info de la exposición. Deben integrar funcionalidad TM para reconocer tipos del componente escogido.
   - Analizar consumo, durabilidad, reparabilidad e impacto ambiental del componente.
 ---    
-[5. Seguridad informática]() `3ºT`
+[6. Seguridad informática]() `3ºT`
   - Tipos de seguridad. Amenazas y ataques.
     - `virus.bat`.
     - Hackear sitios web creados en _WordPress_.
@@ -77,14 +70,14 @@
 
 | Temas y Proyectos | CE1 Programación | CE2 Sistemas | CE3 Redes | CE4 Servicios en red | CE5 Ciudadanía digital |
 |---|---:|---:|---:|---:|---:|
-| Bienvenida, Noticiario y uso responsable de la IA | 5 % | 0 % | 0 % | 0 % | 25 % |
-| 1. Introducción a la programación | 35 % | 0 % | 0 % | 0 % | 10 % |
-| 2. Estructuras estáticas y programación modular | 45 % | 0 % | 0 % | 0 % | 10 % |
+| 1. Bienvenida y uso responsable de la IA | 5 % | 0 % | 0 % | 0 % | 25 % |
+| 2. Introducción a la programación | 35 % | 0 % | 0 % | 0 % | 10 % |
+| 3. Estructuras estáticas y programación modular | 45 % | 0 % | 0 % | 0 % | 10 % |
 | Proyecto OICV/OIE | 10 % | 0 % | 0 % | 0 % | 10 % |
-| 3. Sistemas informáticos y redes | 0 % | 55 % | 65 % | 0 % | 15 % |
-| 4. Introducción al desarrollo web | 5 % | 0 % | 0 % | 55 % | 5 % |
+| 4. Sistemas informáticos y redes | 0 % | 55 % | 65 % | 0 % | 15 % |
+| 5. Introducción al desarrollo web | 5 % | 0 % | 0 % | 55 % | 5 % |
 | Proyecto «Expertos en componentes» | 0 % | 15 % | 0 % | 15 % | 10 % |
-| 5. Seguridad informática | 0 % | 30 % | 35 % | 30 % | 15 % |
+| 6. Seguridad informática | 0 % | 30 % | 35 % | 30 % | 15 % |
 | **Total de cada competencia** | **100 %** | **100 %** | **100 %** | **100 %** | **100 %** |
 
 --- 
