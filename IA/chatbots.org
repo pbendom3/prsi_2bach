@@ -43,6 +43,8 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 *** Agentes (Copilot)
 
+Modo razonamiento profundo. Agente Prompt coach de M365. Agente personalizado.
+
 *** Gemas (Gemini)
 
 
