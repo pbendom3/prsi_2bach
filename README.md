@@ -17,8 +17,7 @@
 [1. Hablemos de... Inteligencia Artificial](./IA/ia.md) `1ºT`
      
 [2. Introducción a la Programación. Estructuras condicionales e iterativas]() `1ºT`
-- [Cómo usar la IA en _Programación_ (sin copiar)](COMO-USAR-LA-IA-PARA-APRENDER-SIN-COPIAR.pdf)
-  
+
 [3. Estructuras estáticas y programación modular]() `1º-2ºT`
 
 ---
