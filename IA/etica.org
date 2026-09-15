@@ -4,10 +4,9 @@
 ** Índice
     1. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#1-implicaciones-%C3%A9ticas-y-sociales-de-los-sistemas-de-ia][Implicaciones éticas y sociales de los sistemas de IA.]]
     2. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-%C3%A9tica-en-el-aula][Ética en el aula.]]
-    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#2-sora-ia-el-motor-de-inteligencia-artificial-capaz-de-generar-v%C3%ADdeo-realista][Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista.]]
-    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
-    5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][Introducción al sesgo con moralmachine.]] 
-    6. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#5-documental-sesgo-codificado-2020-netflix][Documental: Sesgo Codificado (2020, NETFLIX).]] 
+    3. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#3-herramientas-asistidas-por-ia-que-se-utilizan-para-crear-y-distribuir-informaci%C3%B3n--tanto-informaci%C3%B3n-objetiva-como-desinformaci%C3%B3n-bulos-][Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-.]]
+    4. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#4-introducci%C3%B3n-al-sesgo-con-moralmachine][Introducción al sesgo con moralmachine.]] 
+    5. [[https://github.com/pbendom3/seminario-IA/blob/main/sesion-2.org#5-documental-sesgo-codificado-2020-netflix][Documental: Sesgo Codificado (2020, NETFLIX).]] 
    
 ** Referencias
 - [[https://formacion.intef.es/aulaenabierto/mod/book/view.php?id=5073][INTEF - Ética en la inteligencia artificial]]
@@ -64,31 +63,23 @@ Protocolo de uso de IA:
 *Críticos Digitales vs Vagos digitales*
 
 
-** 3. Sora IA, el motor de inteligencia artificial capaz de generar vídeo realista
+** 3. Kling AI, el motor de inteligencia artificial capaz de generar vídeo realista
 
-[[https://sora.com/][Sora]] es el modelo de IA generativa de texto a vídeo de OpenAI. Esto significa que tú escribes un texto y él crea un vídeo que coincide con la descripción del texto. Aquí tienes unos ejemplos:
+[[https://kling.ai][KlingAI]] es el modelo de IA generativa de texto a vídeo. Esto significa que tú escribes un texto y él crea un vídeo que coincide con la descripción del texto. Aquí tienes unos ejemplos:
 
-[[https://www.youtube.com/watch?v=SPBn9gwgIsI&t=95s][./sora.PNG]] 
+[[https://kling.ai/app]
 
-Sora está disponible en la mayor parte del mundo, excepto en la mayoría de países de Europa y el Reino Unido. En España todavía no tenemos acceso, pero como alternativa podemos probar:
-
-- Pika
-- Runway
-
-
-*** Los riesgos de Sora
+*** Los riesgos de la generación de vídeo...
 
 - *Generación de contenidos nocivos*
 
-Sin barreras de protección, Sora puede generar contenidos desagradables o inapropiados, como vídeos con violencia, gore, material sexual explícito, representaciones despectivas de grupos de personas y otras imágenes de odio, así como la promoción o glorificación de actividades ilegales.
+Sin barreras de protección, se pueden generar contenidos desagradables o inapropiados, como vídeos con violencia, gore, material sexual explícito, representaciones despectivas de grupos de personas y otras imágenes de odio, así como la promoción o glorificación de actividades ilegales.
 
-Lo que constituye contenido inapropiado varía mucho en función del usuario (piensa en un niño que utiliza Sora frente a un adulto) y del contexto de la generación del vídeo (un vídeo que advierte sobre los peligros de los fuegos artificiales podría convertirse fácilmente en sangriento de forma educativa).
+Lo que constituye contenido inapropiado varía mucho en función del usuario (piensa en un niño que utiliza estas herramientas frente a un adulto) y del contexto de la generación del vídeo (un vídeo que advierte sobre los peligros de los fuegos artificiales podría convertirse fácilmente en sangriento de forma educativa).
 
 - *Desinformación*
 
-Según los vídeos de ejemplo compartidos por OpenAI, uno de los puntos fuertes de Sora es su capacidad para crear escenas fantásticas que no podrían existir en la vida real. Esta fuerza también hace posible crear vídeos "deepfake" en los que personas o situaciones reales se transforman en algo que no es verdad.
-
-Cuando este contenido se presenta como verdad, ya sea accidentalmente (desinformación) o deliberadamente (desinformación), puede causar problemas.
+Según los vídeos de ejemplo que se pueden ver, uno de los puntos fuertes de estas IAs es su capacidad para crear escenas fantásticas que no podrían existir en la vida real. Esta fuerza también hace posible crear vídeos "deepfake" en los que personas o situaciones reales se transforman en algo que no es verdad. Cuando este contenido se presenta como verdad, ya sea accidentalmente (desinformación) o deliberadamente (desinformación), puede causar problemas.
 
 Como escribió [[https://www.linkedin.com/pulse/navigating-ai-impact-elections-2024-digidiplomacy-icdhe/][Eske Montoya Martínez van Egerschot, Jefa de Gobernanza y Ética de la IA en DigiDiplomacy]], "la IA está remodelando las estrategias de campaña, la participación de los votantes y el propio tejido de la integridad electoral".
 
@@ -103,9 +94,9 @@ Como ya hemos venido comentando durante las sesiones, el resultado de los modelo
 
 ** 4. Herramientas asistidas por IA que se utilizan para crear y distribuir información -tanto información objetiva como desinformación (bulos)-
 
-En 2024 la IA se ha usó para desinformar y crear confusión, polarizar en escenarios políticos y aumentar el caos en situaciones críticas como catástrofes naturales. Aquí tienes un resumen:
+Durante los últimos años, la IA se ha usado para desinformar y crear confusión, polarizar en escenarios políticos y aumentar el caos en situaciones críticas como catástrofes naturales. Aquí tienes un resumen:
 
-- En 2024 hemos desmentido imágenes generadas con IA que se han compartido como reales, como el papa Francisco de fiesta, la boxeadora Imane Khelif como un hombre, Katy Perry o Rihanna en la Met Gala y la torre Eiffel y el Museo del Louvre en llamas.
+- Desmentimos constantemente imágenes generadas con IA que se han compartido como reales, como el papa Francisco de fiesta, la boxeadora Imane Khelif como un hombre, Katy Perry o Rihanna en la Met Gala y la torre Eiffel y el Museo del Louvre en llamas.
 
 [[./katy.jpg]]
 
@@ -113,7 +104,7 @@ En 2024 la IA se ha usó para desinformar y crear confusión, polarizar en escen
 
 - La IA generativa también se ha usado para desinformar durante situaciones de emergencia, como la DANA en España y los huracanes Milton y Helene en EEUU, y en sus elecciones presidenciales, con imágenes a favor y en contra de Trump y Harris. El propio Trump compartió en repetidas ocasiones imágenes hechas con IA que lo representan como un héroe en su red social (Truth Social) y en Twitter (ahora X). La imagen más viral fue la de un bebé en brazos de un bombero que supuestamente habría sido “rescatado con vida en Catarroja”, pero que [[https://maldita.es/malditobulo/20241104/foto-bebe-rescatado-catarroja-dana/][no era una imagen real]]. 
 
-- Una de las novedades del año ha sido Grok, la IA de Twitter, que su dueño Elon Musk ha usado para apoyar narrativas desinformadoras y cuya falta de restricciones da rienda suelta a la desinformación. Por el lado de Kamala Harris, no se detectó que ella o su equipo compartieran contenido generado con IA. Pero sí circularon imágenes creadas con IA de la candidata demócrata que la sexualizaban o caricaturizaban su ideología para desacreditarla. Algunas se usaron para sostener que Harris fueuna “prostituta de lujo” o una “escort”, o que tuvo una relación sentimental con Epstein. Elon Musk usó Grok para crear y difundir este tipo de imágenes de ella, como la que aparece vestida con un uniforme rojo con el símbolo comunista.
+- Grok, la IA de Twitter, cuyo dueño Elon Musk ha usado para apoyar narrativas desinformadoras y cuya falta de restricciones da rienda suelta a la desinformación. Por el lado de Kamala Harris, no se detectó que ella o su equipo compartieran contenido generado con IA. Pero sí circularon imágenes creadas con IA de la candidata demócrata que la sexualizaban o caricaturizaban su ideología para desacreditarla. Algunas se usaron para sostener que Harris fueuna “prostituta de lujo” o una “escort”, o que tuvo una relación sentimental con Epstein. Elon Musk usó Grok para crear y difundir este tipo de imágenes de ella, como la que aparece vestida con un uniforme rojo con el símbolo comunista.
 
 - Se usan imágenes generadas con IA en Facebook para obtener ingresos y chatbots de IA para crear de forma masiva artículos falsos o imprecisos en granjas de contenido. Además, la falta de contexto e información sobre la propia inteligencia artificial también puede implicar desinformación
 
