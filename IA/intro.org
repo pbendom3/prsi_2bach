@@ -114,7 +114,9 @@ Prueba esto:
 
 [[./alucinaciones.PNG]]
 
-Tal y como cuenta Chema en el vídeo, Google cometió con Bard (ahora Gemini) un Overreliance e hizo una demo integrado en Google Search con él preguntándole por proyectos de la NASA, y el error le costó una caída en Bolsa de 100 Billions de USD. 
+Tal y como cuenta Chema en el vídeo, Google cometió con Bard (ahora Gemini) una alucinación. Hizo una demo en directo donde se le consultaba al chatbot: ~¿Qué nuevos descubrimientos del Telescopio Espacial James Webb (JWST) puedo contarle a mi hijo de 9 años?~
+
+Entre varios datos correctos, el sistema afirmó erróneamente que ~el James Webb «tomó las primeras fotografías de un planeta fuera de nuestro sistema solar» (exoplanetas)~.  Varias agencias espaciales y astrofísicos en las redes sociales corrigieron de inmediato el dato. ~La primera fotografía real de un exoplaneta (el 2M1207b) fue capturada en 2004 por el Very Large Telescope (VLT) del Observatorio Europeo del Sur, casi dos décadas antes de que el Webb fuera lanzado~. *El error le costó a Google una caída en Bolsa de 100 Billions de USD*. 
 
 Está claro que estos LLMs no son una fuente fiable para recibir información, o para fiarte de en la toma de decisiones sin revisar lo que te dicen. Es una fuente de creatividad, de conversación, y puedes estar horas hablando con ellos, pero no te puedes fiar de lo que te den como fuente de información fiable. Te puede parecer que este ChatGPT es un tipo muy listo. Muy, muy, muy listo. Pero la verdad es que en el fondo es un modelo de inteligencia artificial hecho para charlar. Un charlatán, y si tiene que inventarse cosas, pues se las inventa que su objetivo no es ser listo, sino charlatán.
 
