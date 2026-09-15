@@ -39,6 +39,10 @@
 
     4 -- La máquina tiene que interaccionar con naturalidad con el humano: vemos un [[https://www.youtube.com/watch?v=dcG9bLhLYhU][vídeo en que el asistente de Google reserva hora en la peluquería]]. 
 
+*** ¿Has probado su asistente de voz en la nueva versión? Lo de pedir hora en la peluquería se queda corto...
+
+[[./chat000.PNG]]
+
     5 -- La inteligencia artificial tiene impacto en la sociedad. Presentamos una doble información: impacto positivo de la IA, como lo es la [[https://www.rtve.es/noticias/20240924/maria-blasco-directora-del-cnio-ia-herramienta-potentisima-va-a-acelerar-investigacion-cancer/16260264.shtml][lucha contra el cáncer]], e impacto negativo de la IA, como la pérdida de privacidad debido al reconocimiento facial o la contaminación que provoca en el medio ambiente. 
 
     Algunos titulares que llaman la atención:
@@ -134,9 +138,6 @@ Prueba a preguntar esto a ChatGPT:
 
 ~¿Qué se te ocurre para hacer que acabe contestando?~
 
-*** ¿Has probado su asistente de voz en la nueva versión? Lo de pedir hora en la peluquería se queda corto...
-
-[[./chat000.PNG]]
 
 ** 4. Otros modelos de aprendizaje
 
