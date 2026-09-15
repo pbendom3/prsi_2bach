@@ -26,10 +26,10 @@ Como culturilla general, cuando hablamos de la ética en las Inteligencias Artif
 [[./ethics.png]]
 
 En general, los 3 ejes que se deben respetar siempre son:
-
-- Consentimiento y privacidad.
-- Seguridad y protección de los datos.
-- No discriminación.
+    
+    - Consentimiento y privacidad.
+    - Seguridad y protección de los datos.
+    - No discriminación.
 
 La suma de estos conceptos implica garantizar que la información personal se recopile y maneje de manera que se protejan los derechos de las personas a la privacidad. Esto incluye obtener el consentimiento informado para la recopilación de datos o implementar medidas para proteger los datos personales. 
 
