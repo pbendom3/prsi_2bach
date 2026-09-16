@@ -98,6 +98,24 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
 
 ~ACTIVIDAD. Prueba a introducir más frases e intenta forzar el error de la máquina. ¿Qué solución piensas que hay que implementar para evitar esos errores?~
 
+** 3. Otros modelos de aprendizaje
+
+1 -- *Learning ML* (https://v2.learningml.org/) para:
+     - Entrenar IA con imágenes.
+     - Entrenar IA con números.
+
+[[./lml.PNG]]
+
+2 -- *Google Teachable Machine* (https://teachablemachine.withgoogle.com/train) para:
+    - Entrenar IA con imágenes.
+    - Entrenar IA con audio.
+    - Entrenar IA con posturas.
+
+[[./tm.PNG]]
+
+3 -- *ML4Kids* (https://machinelearningforkids.co.uk/#!/welcome)
+
+[[./ml4kids.PNG]]
 
 ** 3. ChatGPT... lo bueno y lo malo
 
@@ -138,25 +156,6 @@ Prueba a preguntar esto a ChatGPT:
 
 ~¿Qué se te ocurre para hacer que acabe contestando?~
 
-
-** 4. Otros modelos de aprendizaje
-
-1 -- *Learning ML* (https://v2.learningml.org/) para:
-     - Entrenar IA con imágenes.
-     - Entrenar IA con números.
-
-[[./lml.PNG]]
-
-2 -- *Google Teachable Machine* (https://teachablemachine.withgoogle.com/train) para:
-    - Entrenar IA con imágenes.
-    - Entrenar IA con audio.
-    - Entrenar IA con posturas.
-
-[[./tm.PNG]]
-
-3 -- *ML4Kids* (https://machinelearningforkids.co.uk/#!/welcome)
-
-[[./ml4kids.PNG]]
 
 ** 5. El coste de utilizar la IA: tokens
 
