@@ -117,7 +117,7 @@ La aplicación nos devolverá el porcentaje de aspectos positivos y negativos qu
 
 [[./ml4kids.PNG]]
 
-** 3. ChatGPT... lo bueno y lo malo
+** 4. ChatGPT... lo bueno y lo malo
 
 *** Alucinaciones (Hallucinations) y Overreliance: exceso de confianza en las respuestas que da el modelo LLM
 Como ya hemos estado hablando, ChatGPT es un modelo de IA conversacional basado en LLM, o lo que es lo mismo, algoritmos de Inteligencia Artificial Generativa que producen texto para conversar. Y esto es importante, porque se trata de que conversen, no de que lleven razón. Y tampoco están entrenados con todo el conocimiento universal verificado, así que lo mismo conversan de lo plana que es la tierra, como que de que el cambio climático no existe o la crema solar es innecesaria.
