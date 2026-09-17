@@ -119,5 +119,7 @@ También podemos usar el [[https://www.juancmejia.com/transformacion-digital/gen
 *Gemas personalizadas*
 
 
-** 3. Uso académico de NotebookLM
+** 3. Uso académico de Gemini NotebookLM
+
+[[./notebook.PNG]]
 
