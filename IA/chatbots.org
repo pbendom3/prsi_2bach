@@ -43,21 +43,21 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 Una instrucción para obtener el *"Prompt Perfecto"* debe articularse bajo 5 ejes:
 
-    [1]. Rol (¿Quién soy?): Define el nivel de experiencia y la especialidad que quieres que asuma la IA.
+    1. *Rol (¿Quién soy?)*: Define el nivel de experiencia y la especialidad que quieres que asuma la IA.
 
-    [2]. Contexto (¿Dónde estamos?): Explica de qué trata el proyecto, tecnologías y cuál es el problema general.
+    2. *Contexto (¿Dónde estamos?)*: Explica de qué trata el proyecto, tecnologías y cuál es el problema general.
 
-    [3]. Tarea exacta (¿Qué necesitas?): Sé específico. Pide algo concreto.
+    3. *Tarea exacta (¿Qué necesitas?)*: Sé específico. Pide algo concreto.
 
-    [4]. Restricciones o Reglas (¿Qué límites hay?): Indica convenciones y estándares.
+    4. *Restricciones o Reglas (¿Qué límites hay?)*: Indica convenciones y estándares. "Básate sólo en los apuntes del profesor", "No uses un lenguaje muy formal", etc.
 
-    [5]. Formato de salida (¿Cómo lo quieres?): Cómo quieres recibir la información. En pantalla, en formato tabla para copiar-pegar, en un documento de texto, en una presentación,...
+    5. *Formato de salida (¿Cómo lo quieres?)*: Cómo quieres recibir la información. En pantalla, en formato tabla para copiar-pegar, en un documento de texto, en una presentación,...
 
 *Ejemplo: crear una rutina de estudio.*
 
 Situación: Un alumno quiere pedirle a una IA que le ayude a organizar el estudio para un examen.
     
-- *Prompt malo*: "Hazme un horario para estudiar matemáticas". La IA tiene que adivinar prácticamente todo: qué nivel tiene, cuánto tiempo queda, qué temas entran, cuánto tiempo tiene disponible...
+- *Prompt malo*: ~"Hazme un horario para estudiar matemáticas"~. La IA tiene que adivinar prácticamente todo: qué nivel tiene, cuánto tiempo queda, qué temas entran, cuánto tiempo tiene disponible...
 
 - Ahora construimos el *prompt "bueno"* paso a paso:
 
