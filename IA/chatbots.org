@@ -37,6 +37,8 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 [[./chatboy_canva.png]]
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ** 2. Uso de chatbots como herramienta de estudio
 
 *** Anatomía de un prompt (Prompt engineering) 📝
@@ -73,6 +75,8 @@ Un alumno quiere pedirle a una IA que le ayude a organizar el estudio para un ex
 
 *Conclusión: La IA no sabe lo que tú tienes en la cabeza. Un buen prompt consiste en darle la información necesaria para que pueda hacer exactamente lo que necesitas.*
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 *** Agentes (Copilot)
 
 Agente *Prompt coach* de M365.
@@ -81,6 +85,7 @@ Agente *Prompt coach* de M365.
 
 *Modo razonamiento profundo.*
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *** 💎 Gemas (Gemini)
 
@@ -115,6 +120,8 @@ El agente se quedará esperando a que lo iniciemos. Cada vez que entremos a ese 
 [[./prompt6.PNG]]
 
 También podemos utilizar este [[https://www.juancmejia.com/transformacion-digital/generador-de-prompts-para-gemini-gratis-crea-indicaciones-e-instrucciones-profesionales/][generador de prompts]].
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Gemas personalizadas💎*
 
@@ -151,6 +158,8 @@ Como ya hemos visto creando nuestro agente para prompts, una Gem es un asistente
 ~Quiero que seas paciente y que adaptes las explicaciones a mis dudas.~
 
 La parte más importante de una Gem son sus *instrucciones*. No basta con escribir un rol genérico. Conviene anticipar cómo debe actuar, qué debe preguntar, qué no debe hacer, qué estructura debe entregar y cómo debe tratar los documentos que se le proporcionan. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ** 3. Uso académico de Gemini NotebookLM 📓
 
