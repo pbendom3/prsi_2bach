@@ -39,7 +39,7 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 ** 2. Uso de chatbots como herramienta de estudio
 
-*** Anatomía de un prompt (Prompt engineering)
+*** Anatomía de un prompt (Prompt engineering) 📝
 
 Una instrucción para obtener el *"Prompt Perfecto"* debe articularse bajo 5 ejes:
 
@@ -53,9 +53,9 @@ Una instrucción para obtener el *"Prompt Perfecto"* debe articularse bajo 5 eje
 
     5. *Formato de salida (¿Cómo lo quieres?)*: Cómo quieres recibir la información. En pantalla, en formato tabla para copiar-pegar, en un documento de texto, en una presentación,...
 
-*Ejemplo: crear una rutina de estudio.*
+*Ejemplo: prompt para crear una rutina de estudio.*
 
-Un alumno quiere pedirle a una IA que le ayude a organizar el estudio para un examen.
+Un alumno quiere pedirle a una IA que le ayude a organizar el estudio para un examen...
     
 - *Prompt malo*: ~"Hazme un horario para estudiar matemáticas"~. La IA tiene que adivinar prácticamente todo: qué nivel tiene, cuánto tiempo queda, qué temas entran, cuánto tiempo tiene disponible...
 
