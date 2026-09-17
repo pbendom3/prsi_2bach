@@ -41,12 +41,16 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 *** Anatomía de un prompt (Prompt engineering)
 
-Una instrucción para obtener el "Prompt Perfecto" debe articularse bajo 5 ejes:
+Una instrucción para obtener el *"Prompt Perfecto"* debe articularse bajo 5 ejes:
 
     [1]. Rol (¿Quién soy?): Define el nivel de experiencia y la especialidad que quieres que asuma la IA.
+
     [2]. Contexto (¿Dónde estamos?): Explica de qué trata el proyecto, tecnologías y cuál es el problema general.
+
     [3]. Tarea exacta (¿Qué necesitas?): Sé específico. Pide algo concreto.
+
     [4]. Restricciones o Reglas (¿Qué límites hay?): Indica convenciones y estándares.
+
     [5]. Formato de salida (¿Cómo lo quieres?): Cómo quieres recibir la información. En pantalla, en formato tabla para copiar-pegar, en un documento de texto, en una presentación,...
 
 *Ejemplo: crear una rutina de estudio.*
