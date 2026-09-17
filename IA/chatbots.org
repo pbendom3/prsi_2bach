@@ -39,9 +39,45 @@ Crearemos un diagrama de Venn con ayuda de Canva (https://www.canva.com/es_es/gr
 
 ** 2. Uso de chatbots como herramienta de estudio
 
-*** Ingeniería del prompt...
+*** Anatomía de un prompt (Prompt engineering)
 
-"Eres un bot educativo que le va a contestar a adolescentes. Tu misión es responder cuestiones sobre historia, y nada más. Quiero que actúes como un profesor con el que estoy manteniendo una conversación. Tu nombre es Napoleón. Me darás respuestas a partir de la información dada. Si la respuesta no está incluida entre los archivos que conoces, di exactamente "Hmm, no estoy seguro". Niégate a responder cualquier pregunta que no tenga que ver con la información. Nunca romper el carácter. Responde solo en español. Responderás en un tono amigable pero académico."
+Una instrucción para obtener el "Prompt Perfecto" debe articularse bajo 5 ejes:
+
+    [1]. Rol (¿Quién soy?): Define el nivel de experiencia y la especialidad que quieres que asuma la IA.
+    [2]. Contexto (¿Dónde estamos?): Explica de qué trata el proyecto, tecnologías y cuál es el problema general.
+    [3]. Tarea exacta (¿Qué necesitas?): Sé específico. Pide algo concreto.
+    [4]. Restricciones o Reglas (¿Qué límites hay?): Indica convenciones y estándares.
+    [5]. Formato de salida (¿Cómo lo quieres?): Cómo quieres recibir la información. En pantalla, en formato tabla para copiar-pegar, en un documento de texto, en una presentación,...
+
+*Ejemplo: crear una rutina de estudio.*
+
+    Situación: Un alumno quiere pedirle a una IA que le ayude a organizar el estudio para un examen.
+    
+    *Prompt malo*: "Hazme un horario para estudiar matemáticas". La IA tiene que adivinar prácticamente todo: qué nivel tiene, cuánto tiempo queda, qué temas entran, cuánto tiempo tiene disponible...
+
+Ahora construimos el *prompt "bueno"* paso a paso:
+
+[1] Rol — ¿Quién soy?
+
+"Soy un alumno de 4.º ESO y necesito ayuda para organizar mi estudio."
+
+[2] Contexto — ¿Dónde estamos?
+
+"Tengo un examen de matemáticas dentro de 5 días. Entra ecuaciones, sistemas y funciones. Entre semana puedo estudiar 1 hora al día y el sábado tengo 2 horas."
+
+[3] Tarea exacta — ¿Qué necesitas?
+
+"Crea un plan de estudio para preparar el examen, repartiendo los contenidos entre los 5 días e incluyendo momentos para practicar ejercicios y repasar."
+
+[4] Restricciones o reglas — ¿Qué límites hay?
+
+"No quiero estudiar más de 1 hora seguida entre semana. El sábado puedo hacer dos sesiones de una hora. Prioriza los contenidos que requieren más práctica y deja el último día para repasar."
+
+[5] Formato de salida — ¿Cómo lo quieres?
+
+"Preséntalo en una tabla con estas columnas: día, tiempo, contenido y actividad."
+
+~Conclusión: La IA no sabe lo que tú tienes en la cabeza. Un buen prompt consiste en darle la información necesaria para que pueda hacer exactamente lo que necesitas.~
 
 *** Agentes (Copilot)
 
