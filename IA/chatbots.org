@@ -118,6 +118,11 @@ También podemos utilizar este [[https://www.juancmejia.com/transformacion-digit
 
 *Gemas personalizadas*
 
+Como ya hemos visto creando nuestro agente para prompts, una Gem es un asistente personalizado dentro de Google Gemini. Permite guardar instrucciones, un rol, una forma de responder y, si procede, documentos de referencia. La principal ventaja es que *evita reescribir una y otra vez el mismo prompt cuando la tarea se repite*.
+
+*Privacidad: la regla de oro antes de usar Gems!!!* Las Gems pueden ser muy útiles, pero *no deben recibir datos sensibles del centro ni información identificable del alumnado*.
+
+La parte más importante de una Gem son sus *instrucciones*. No basta con escribir un rol genérico. Conviene anticipar cómo debe actuar, qué debe preguntar, qué no debe hacer, qué estructura debe entregar y cómo debe tratar los documentos que se le proporcionan. 
 
 ** 3. Uso académico de Gemini NotebookLM
 
