@@ -114,7 +114,7 @@ El agente se quedará esperando a que lo iniciemos. Cada vez que entremos a ese 
 
 [[./prompt6.PNG]]
 
-También podemos usar el [[https://www.juancmejia.com/transformacion-digital/generador-de-prompts-para-gemini-gratis-crea-indicaciones-e-instrucciones-profesionales/][generador de prompts]]
+También podemos utilizar este [[https://www.juancmejia.com/transformacion-digital/generador-de-prompts-para-gemini-gratis-crea-indicaciones-e-instrucciones-profesionales/][generador de prompts]].
 
 *Gemas personalizadas*
 
