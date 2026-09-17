@@ -88,31 +88,31 @@ Agente *Prompt coach* de M365.
 
 1. En el menú lateral izquierdo, busca y haz clic en ~Gems~.
 
-[[./1.png]]
+[[./prompt1.png]]
 
 2. Selecciona ~Nuevo Gem~ 
 
-[[./2.png]]
+[[./prompt2.png]]
 
 y configura los campos básicos:
 
-[[./3.png]]
+[[./prompt3.png]]
 
 - ~Nombre~: Ponle algo como "Prompt Coach".
 - ~Descripción~: resumen de lo que va a hacer.
-- Instrucciones: Pega este prompt de rol...
+- ~Instrucciones~: Pega este prompt de rol...
 
 ~Actúa como un Prompt Coach experto en ingeniería de peticiones. Tu objetivo es ayudarme a mejorar cada instrucción que te envíe para que mis resultados sean más precisos, claros y útiles. A partir de ahora, cuando te escriba un borrador de prompt, no lo ejecutes directamente. En su lugar, analiza qué le falta (rol, contexto, formato o restricciones) y respóndeme con esta estructura: 1. Qué funciona de mi petición actual. 2. Qué falta o se puede precisar. 3. Un prompt optimizado y mejorado listo para copiar, pegar y usar. Salúdame brevemente, adopta este rol y dime cuál es el primer prompt que quieres mejorar.~
 
 3. Haz clic en ~Guardar~. 
 
-[[./4.PNG]]
+[[./prompt4.PNG]]
 
 El agente se quedará esperando a que lo iniciemos. Cada vez que entremos a ese chat específico, Gemini ya sabrá de manera automática que su único trabajo es analizar tus textos y devolverte la versión optimizada, ahorrándote el proceso de configurar el contexto manualmente en cada sesión. ¡Pruébalo!
 
-[[./5.PNG]]
+[[./prompt5.PNG]]
 
-[[./6.PNG]]
+[[./prompt6.PNG]]
 
 También podemos usar el [[https://www.juancmejia.com/transformacion-digital/generador-de-prompts-para-gemini-gratis-crea-indicaciones-e-instrucciones-profesionales/][generador de prompts]]
 
