@@ -57,27 +57,17 @@ Situación: Un alumno quiere pedirle a una IA que le ayude a organizar el estudi
 
 - Ahora construimos el *prompt "bueno"* paso a paso:
 
-    - [1] Rol — ¿Quién soy?
+    - [1] Rol — ¿Quién soy? ~"Soy un alumno de 4.º ESO y necesito ayuda para organizar mi estudio."~
 
-"Soy un alumno de 4.º ESO y necesito ayuda para organizar mi estudio."
+    - [2] Contexto — ¿Dónde estamos? ~"Tengo un examen de matemáticas dentro de 5 días. Entra ecuaciones, sistemas y funciones. Entre semana puedo estudiar 1 hora al día y el sábado tengo 2 horas."~
 
-    - [2] Contexto — ¿Dónde estamos?
+    - [3] Tarea exacta — ¿Qué necesitas? ~"Crea un plan de estudio para preparar el examen, repartiendo los contenidos entre los 5 días e incluyendo momentos para practicar ejercicios y repasar."~
 
-"Tengo un examen de matemáticas dentro de 5 días. Entra ecuaciones, sistemas y funciones. Entre semana puedo estudiar 1 hora al día y el sábado tengo 2 horas."
+    - [4] Restricciones o reglas — ¿Qué límites hay? ~"No quiero estudiar más de 1 hora seguida entre semana. El sábado puedo hacer dos sesiones de una hora. Prioriza los contenidos que requieren más práctica y deja el último día para repasar."~
 
-    - [3] Tarea exacta — ¿Qué necesitas?
+    - [5] Formato de salida — ¿Cómo lo quieres? ~"Preséntalo en una tabla con estas columnas: día, tiempo, contenido y actividad."~
 
-"Crea un plan de estudio para preparar el examen, repartiendo los contenidos entre los 5 días e incluyendo momentos para practicar ejercicios y repasar."
-
-    - [4] Restricciones o reglas — ¿Qué límites hay?
-
-"No quiero estudiar más de 1 hora seguida entre semana. El sábado puedo hacer dos sesiones de una hora. Prioriza los contenidos que requieren más práctica y deja el último día para repasar."
-
-    - [5] Formato de salida — ¿Cómo lo quieres?
-
-"Preséntalo en una tabla con estas columnas: día, tiempo, contenido y actividad."
-
-~Conclusión: La IA no sabe lo que tú tienes en la cabeza. Un buen prompt consiste en darle la información necesaria para que pueda hacer exactamente lo que necesitas.~
+*Conclusión: La IA no sabe lo que tú tienes en la cabeza. Un buen prompt consiste en darle la información necesaria para que pueda hacer exactamente lo que necesitas.*
 
 *** Agentes (Copilot)
 
