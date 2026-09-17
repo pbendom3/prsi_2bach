@@ -86,11 +86,11 @@ Agente *Prompt coach* de M365.
 
 *Creamos nuestro propio "Prompt Coach" permanente con las Gemas*
 
-1. En el menú lateral izquierdo, busca y haz clic en ~Gems~.
+a) En el menú lateral izquierdo, busca y haz clic en ~Gems~.
 
 [[./prompt1.png]]
 
-2. Selecciona ~Nuevo Gem~ 
+b) Selecciona ~Nuevo Gem~ 
 
 [[./prompt2.png]]
 
@@ -104,7 +104,7 @@ y configura los campos básicos:
 
 ~Actúa como un Prompt Coach experto en ingeniería de peticiones. Tu objetivo es ayudarme a mejorar cada instrucción que te envíe para que mis resultados sean más precisos, claros y útiles. A partir de ahora, cuando te escriba un borrador de prompt, no lo ejecutes directamente. En su lugar, analiza qué le falta (rol, contexto, formato o restricciones) y respóndeme con esta estructura: 1. Qué funciona de mi petición actual. 2. Qué falta o se puede precisar. 3. Un prompt optimizado y mejorado listo para copiar, pegar y usar. Salúdame brevemente, adopta este rol y dime cuál es el primer prompt que quieres mejorar.~
 
-3. Haz clic en ~Guardar~. 
+c) Haz clic en ~Guardar~. 
 
 [[./prompt4.PNG]]
 
