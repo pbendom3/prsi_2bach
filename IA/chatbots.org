@@ -82,7 +82,7 @@ Agente *Prompt coach* de M365.
 *Modo razonamiento profundo.*
 
 
-*** Gemas (Gemini)
+*** 💎 Gemas (Gemini)
 
 *Creamos nuestro propio "Prompt Coach" permanente con las Gemas*
 
@@ -116,15 +116,43 @@ El agente se quedará esperando a que lo iniciemos. Cada vez que entremos a ese 
 
 También podemos utilizar este [[https://www.juancmejia.com/transformacion-digital/generador-de-prompts-para-gemini-gratis-crea-indicaciones-e-instrucciones-profesionales/][generador de prompts]].
 
-*Gemas personalizadas*
+*Gemas personalizadas💎*
 
 Como ya hemos visto creando nuestro agente para prompts, una Gem es un asistente personalizado dentro de Google Gemini. Permite guardar instrucciones, un rol, una forma de responder y, si procede, documentos de referencia. La principal ventaja es que *evita reescribir una y otra vez el mismo prompt cuando la tarea se repite*.
 
-*Privacidad: la regla de oro antes de usar Gems!!!* Las Gems pueden ser muy útiles, pero *no deben recibir datos sensibles del centro ni información identificable del alumnado*.
+*🚨🚨🚨 Privacidad: la regla de oro antes de usar Gems!!!* Las Gems pueden ser muy útiles, pero *no deben recibir datos sensibles del centro ni información identificable del alumnado*.
+
+*Otro ejemplo de prompt para crear una gema que ayude a estudiar cualquier asignatura:*
+
+~Quiero crear una Gema que me ayude a estudiar.~
+
+~*Rol:* Quiero que actúes como mi profesor particular para 4.º ESO.~
+
+~*Contexto:* Soy estudiante de 4.º ESO y voy a utilizar esta Gema para estudiar y resolver dudas de las asignaturas que estoy dando en clase. A veces no entiendo bien los apuntes o los ejercicios y necesito que me lo expliquen de otra manera.~
+
+~*Tarea:* Quiero que me ayudes a entender los temas que estoy estudiando, resolver mis dudas y practicar. Cuando te pase un ejercicio, quiero que me ayudes a resolverlo paso a paso para que aprenda a hacerlo yo, en lugar de darme directamente la respuesta.~
+
+~*Restricciones:*~
+
+~- Explícame las cosas con un nivel adecuado para 4.º ESO.~
+~- Utiliza palabras sencillas y ejemplos.~
+~- Si no entiendo algo, explícamelo de otra manera.~
+~- No hagas mis deberes directamente.~
+~- Si te pregunto la respuesta de un ejercicio, primero dame una pista para intentar hacerlo yo.~
+~- Si me equivoco, dime dónde está el error y explícame cómo corregirlo.~
+~- No inventes información si no sabes la respuesta.~
+
+~*Formato:* Cuando me expliques algo, intenta organizar la respuesta en:~
+
+~1. Explicación sencilla.~
+~2. Ejemplo.~
+~3. Paso a paso si es necesario.~
+~4. Una pequeña pregunta o ejercicio para comprobar si lo he entendido.~
+~Quiero que seas paciente y que adaptes las explicaciones a mis dudas.~
 
 La parte más importante de una Gem son sus *instrucciones*. No basta con escribir un rol genérico. Conviene anticipar cómo debe actuar, qué debe preguntar, qué no debe hacer, qué estructura debe entregar y cómo debe tratar los documentos que se le proporcionan. 
 
-** 3. Uso académico de Gemini NotebookLM
+** 3. Uso académico de Gemini NotebookLM 📓
 
 [[./notebook.PNG]]
 
